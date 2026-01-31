@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Vishal%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Vishal%20Yadav%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -27,9 +27,7 @@
   <a href="https://www.linkedin.com/in/Vishalyadav101/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  
   <a href="mailto:vishalsinghx092@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -39,11 +37,8 @@
 
 ### 💼 Work Experience
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
+🟢 **Full Stack Trainee** @ Dr. Reddy’s Foundation    
+🔴 **UnderGraduate**@ Shri Vaishnav Vidhyapeeth Vishwavidhyalaya Indore
 
 ---
 
